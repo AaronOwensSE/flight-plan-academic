@@ -1,0 +1,16 @@
+Flights from Winterfell to Rohan (Fastest):
+
+Winterfell -> Rohan (56)
+Total: 56
+
+Winterfell -> Oz (49) -> Rohan (42)
+Total: 91
+
+Flights from Chicago to Winterfell (Cheapest):
+
+Chicago -> Oz (149) -> Winterfell (96)
+Total: 245
+
+Chicago -> Oz (149) -> Rohan (93) -> Winterfell (105)
+Total: 347
+

@@ -1,0 +1,5 @@
+4
+Winterfell|Oz|96|49
+Oz|Rohan|93|42
+Winterfell|Rohan|105|56
+Oz|Chicago|149|198
